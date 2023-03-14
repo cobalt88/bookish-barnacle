@@ -1,0 +1,9 @@
+{
+  "name": "graph",
+  "description": "testing space for graph-ql api",
+  "authors": "cobalt88",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0"
+  }
+}
