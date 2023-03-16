@@ -1,5 +1,7 @@
 {
   "name": "graph",
+  "private": true,
+  "type": "module",
   "description": "testing space for graph-ql api",
   "authors": "cobalt88",
   "dependencies": {
